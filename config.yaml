@@ -18,7 +18,7 @@ title: "L2D Handbook"
 created: "2024-06-06"
 
 # Comma-separated list of keywords for the lesson
-keywords: "software, data, lesson, The Carpentries"
+keywords: "L2D"
 
 # Life cycle stage of the lesson
 # possible values: pre-alpha, alpha, beta, stable
@@ -28,13 +28,13 @@ life_cycle: "pre-alpha"
 license: "CC-BY 4.0"
 
 # Link to the source repository for this lesson
-source: "https://github.com/milanmlft/L2D-Handbook"
+source: "https://github.com/LearnToDiscover/L2D-Handbook"
 
 # Default branch of your lesson
 branch: "main"
 
 # Who to contact if there are any issues
-contact: "team@carpentries.org"
+contact: "admin@learntodiscover.ai"
 
 # Generate PDFs of episodes?
 pdf: FALSE
@@ -80,3 +80,5 @@ profiles:
 #
 # This space below is where custom yaml items (e.g. pinning
 # sandpaper and varnish versions) should live
+varnish: LearnToDiscover/varnish
+sandpaper: LearnToDiscover/sandpaper@l2d
