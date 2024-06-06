@@ -67,6 +67,13 @@ ipynb: FALSE
 # Order of episodes in your lesson
 episodes:
     - section1.md
+    - section2.md
+    - section3.md
+    - section4.md
+    - section5.md
+    - section6.md
+    - section7.md
+    - section8.md
 
 # Information for Learners
 learners:
