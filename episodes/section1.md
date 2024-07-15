@@ -8,7 +8,7 @@ exercises: 2
 
 We would firstly likely to extend our warmest welcome to you, and thank you for choosing the L2D course to empower you with valuable skills in Python programming, data science and machine learning: developed by life scientists, for life scientists.  
  
-In order to get started, you will need to register yourself for a GitHub account. Our administrators will then issue you with a Google Form for us to collect your GitHub handles, and we will follow shortly with an invitation requesting that you join a GitHub Organisation for the current cohort of learners.  
+In order to get started, you will need to register yourself for a GitHub account. Our administrators will then issue you with a [Registration Form](https://forms.gle/V4X3GfNMEUBbJgFn8) for us to collect your GitHub handles, and we will follow shortly with an invitation requesting that you join a GitHub Organisation for the current cohort of learners.  
  
 Once this has been set up, please keep a note of your GitHub login details, as these will be used throughout your L2D course to access materials, submit assignments and interact with academics and fellow learners. 
 
