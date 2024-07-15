@@ -24,7 +24,7 @@ https://linktr.ee/L2DTutorSessions
 
 4. To book a slot, click the time of your choosing, and fill out the form with your name, email address and the reason for your booking. (Tip: give 1-2 sentences in the last field, to help your tutor know what the support session will be about). 
 
-![](fig/Picture 23.png)
+![](fig/Picture 23.png){height=477px width=570px}
 
 You should then receive an automatic calendar invite to the provided email address. When the time for your support session arises, it will take place on the automatically provided Google Meet link, which will allow you to engage in a video meeting with your tutor, directly from your web browser. No additional software or sign-ups are required. 
  
