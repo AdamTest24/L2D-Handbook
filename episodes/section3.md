@@ -43,7 +43,7 @@ On a per-lesson basis, you will find the following resources within each GitHub 
  
 - **Assignments:** This folder contains blank assignment templates for you to fill out and submit before your submission deadline. Assignments are typically graded within 14 days of timely submission, and these are made available, here. 
 
-- **DIY_Exercises:** This folder contains DIY exercises found in the written materials, are made available in this folder as interactive Jupyter Notebook files. (Note: This folder is not available in all lesson topics). 
+- **Practice_Exercises:** This folder contains Practice exercises found in the written materials, are made available in this folder as interactive Jupyter Notebook files. (Note: This folder is not available in all lesson topics). 
 
 - **Instructions:** This folder contains the Student Handbook. 
 
