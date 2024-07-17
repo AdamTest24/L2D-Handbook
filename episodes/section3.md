@@ -45,8 +45,6 @@ On a per-lesson basis, you will find the following resources within each GitHub 
 
 - **Practice_Exercises:** This folder contains Practice exercises found in the written materials, are made available in this folder as interactive Jupyter Notebook files. (Note: This folder is not available in all lesson topics). 
 
-- **Instructions:** This folder contains the Student Handbook. 
-
 - **Lecture_Resources:** This folder contains any data or Jupyter Notebooks that are demonstrated during the live lecture for the associated lesson. These can be useful if you wish to code in tandem with your L2D Instructor during a lecture. 
 
 - **ReadMe:** This is a document that will display on the home page of your GitHub repository, beneath the repository contents, and contains all the useful links and information relating to the selected fortnight’s learning. This includes links to written materials, times and links to live lectures and drop-in sessions, as well as contact details for reaching us. 
