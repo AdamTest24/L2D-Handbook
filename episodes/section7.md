@@ -4,7 +4,7 @@ teaching: 10
 exercises: 2
 ---
 
-## Assignment Submission
+## Assignment Submission - via Codespaces {#onlineSubmition}
 
 As you progress through the L2D course, you are expected to complete one assignment per fortnightly lesson release. Assignments are template Jupyter Notebook (.ipynb) files found in your Assignments folder, and consist of a set of questions related to the fortnight’s lesson topic. You should complete these with the knowledge you have gained from consuming L2D’s written materials, tutorial videos, live lectures and drop-in sessions.  
  
@@ -86,6 +86,33 @@ You must first stage a change, commit it and then push this change back to your 
 ![](fig/Picture 17.png){height=668px width=698px}
 
 Initially, for users new to GitHub, this workflow may seem a little daunting. But we encourage you to keep this handbook to hand, so that you can get used to this system of submitting assignments. At L2D, we have selected this protocol for assignment submission to familiarise learners with GitHub’s infrastructure so that – for those who pursue coding in the future – you will be armed with the knowledge of how to use a platform and system for code sharing, collaboration and publication that is recognised and used, internationally. 
+
+## Assignment Submission - Local {#localSubmition}
+
+For those who wish to bypass the previously outlined Codespace method, or work on their assignments without an active internet connection, this [tutorial video](https://youtu.be/A-RRXSKJSQo) will outline how to use Microsoft Visual Studio Code to open a locally-cloned copy of your GitHub repository, and commit and push your assignments back to your GitHub lesson repository, in order to submit them.
+
+Please watch the following [tutorial video](https://youtu.be/A-RRXSKJSQo) in order to complete your assignment submission:
+
+
+
+The pre-requisite installation requirements and links referenced in the video are:
+
+:::::::::::::::::: prereq
+
+- [Anaconda installation](https://docs.anaconda.com/anaconda/install/) 
+
+- [Git installation (if necessary)](https://github.com/git-guides/install-git) 
+
+- [SSH Key generation](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) 
+
+- [Adding SSH Key on GitHub](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
+
+
+::::::::::::::::::
+
+
+
+
 
 
 
